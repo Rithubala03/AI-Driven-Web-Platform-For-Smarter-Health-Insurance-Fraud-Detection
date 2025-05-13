@@ -1,0 +1,501 @@
+ClaimAmount,Age,Diagnosis,HospitalType,PreviousClaims,FraudFlag
+16295,65,Cancer,Public,7,0
+1360,56,Injury,Private,1,0
+38658,50,Injury,Private,5,0
+45232,40,Injury,Clinic,4,1
+11784,27,Heart Disease,Public,9,0
+6765,86,Heart Disease,Private,8,0
+17350,51,Cancer,Public,4,0
+37694,69,Injury,Clinic,1,0
+22462,27,Injury,Private,4,0
+47691,36,Diabetes,Private,3,1
+44631,75,Heart Disease,Private,6,1
+16523,18,Injury,Clinic,5,1
+41590,86,Cancer,Public,1,0
+2185,21,Cancer,Private,4,0
+1269,33,Injury,Clinic,6,0
+2933,41,Heart Disease,Public,6,0
+5811,19,Cancer,Clinic,4,0
+38319,49,Diabetes,Public,8,1
+39688,41,Cancer,Clinic,3,0
+18068,29,Flu,Public,2,0
+20269,67,Flu,Private,3,0
+29193,52,Heart Disease,Public,4,0
+6896,50,Injury,Clinic,5,0
+27980,50,Heart Disease,Clinic,2,0
+41934,78,Heart Disease,Public,1,0
+26158,68,Heart Disease,Private,3,0
+19442,60,Heart Disease,Private,4,0
+18931,29,Diabetes,Public,3,0
+3247,84,Diabetes,Public,2,0
+689,82,Cancer,Clinic,7,0
+19618,50,Flu,Private,9,0
+36273,57,Heart Disease,Public,3,0
+2399,60,Cancer,Private,1,0
+1767,61,Flu,Public,1,0
+32051,46,Injury,Public,0,1
+11894,30,Diabetes,Private,3,0
+4056,29,Flu,Public,9,0
+4390,63,Injury,Public,8,0
+42106,19,Flu,Clinic,6,0
+31240,52,Diabetes,Public,9,0
+15002,25,Diabetes,Public,6,0
+22277,43,Cancer,Public,6,0
+11127,51,Heart Disease,Clinic,7,0
+9292,24,Flu,Private,0,0
+43823,85,Flu,Clinic,9,0
+43521,75,Injury,Clinic,9,0
+8933,46,Diabetes,Private,7,0
+43501,53,Flu,Clinic,3,0
+11516,38,Diabetes,Private,3,0
+24397,53,Flu,Clinic,3,0
+3112,27,Cancer,Private,5,1
+23983,41,Heart Disease,Public,6,0
+49055,81,Flu,Clinic,5,1
+17659,66,Diabetes,Clinic,0,0
+45474,53,Cancer,Clinic,7,0
+41494,41,Flu,Clinic,9,0
+15041,40,Injury,Public,6,0
+36420,79,Heart Disease,Clinic,5,0
+27031,54,Flu,Public,5,0
+2085,29,Cancer,Public,4,0
+4443,72,Injury,Public,5,1
+24439,30,Cancer,Public,8,0
+19957,40,Cancer,Private,9,0
+1521,47,Injury,Private,8,0
+12153,34,Cancer,Clinic,9,0
+44073,79,Injury,Private,7,0
+13917,30,Flu,Private,9,0
+41257,76,Injury,Clinic,8,0
+10192,36,Injury,Clinic,9,0
+46258,66,Heart Disease,Clinic,7,1
+7373,29,Injury,Private,7,0
+6175,78,Injury,Private,0,0
+661,36,Flu,Clinic,9,1
+37565,26,Heart Disease,Public,4,0
+27057,88,Diabetes,Clinic,3,0
+34263,45,Flu,Public,1,1
+33106,69,Flu,Public,7,0
+12034,33,Diabetes,Clinic,2,0
+29627,86,Injury,Clinic,3,0
+40897,29,Cancer,Clinic,6,0
+26351,42,Heart Disease,Private,9,0
+1516,69,Cancer,Public,8,1
+24753,70,Diabetes,Private,1,0
+24776,40,Flu,Private,2,0
+23747,33,Flu,Clinic,3,1
+24800,74,Heart Disease,Private,9,0
+9029,56,Flu,Clinic,0,0
+17762,70,Flu,Public,6,0
+9768,59,Heart Disease,Clinic,1,0
+21771,75,Heart Disease,Private,4,0
+12685,56,Diabetes,Private,0,1
+21743,31,Flu,Clinic,2,0
+39599,22,Flu,Clinic,1,0
+9071,52,Diabetes,Private,0,0
+40476,35,Injury,Public,6,1
+38544,26,Injury,Public,4,1
+49716,75,Injury,Clinic,0,0
+49484,34,Diabetes,Public,5,0
+41274,24,Flu,Private,4,0
+3068,63,Diabetes,Clinic,2,0
+2527,30,Diabetes,Private,6,0
+3195,57,Injury,Private,9,0
+48690,59,Cancer,Public,8,1
+5758,26,Flu,Clinic,8,0
+22502,67,Injury,Clinic,8,0
+40004,44,Cancer,Public,1,0
+33659,83,Cancer,Private,2,0
+14486,22,Heart Disease,Private,6,0
+13166,46,Flu,Private,4,0
+39160,54,Cancer,Private,1,0
+4061,55,Injury,Clinic,2,0
+27354,25,Heart Disease,Clinic,9,1
+39452,82,Flu,Public,5,0
+23162,34,Diabetes,Public,6,0
+8892,88,Injury,Clinic,8,1
+31035,62,Cancer,Clinic,0,0
+13567,21,Cancer,Private,6,0
+48533,53,Injury,Private,7,1
+24099,87,Cancer,Public,2,0
+35722,48,Heart Disease,Clinic,3,0
+12337,36,Flu,Public,9,0
+14539,78,Heart Disease,Clinic,5,0
+31318,71,Cancer,Private,9,0
+19615,56,Diabetes,Public,6,0
+11465,36,Flu,Public,3,0
+25038,56,Flu,Clinic,7,0
+43030,84,Injury,Private,4,0
+5556,62,Injury,Public,0,0
+32982,30,Diabetes,Private,3,0
+48216,75,Flu,Public,2,1
+8610,37,Diabetes,Private,8,0
+14273,89,Injury,Clinic,7,1
+27766,78,Injury,Public,0,0
+17912,56,Flu,Public,5,0
+33770,18,Heart Disease,Private,8,0
+7410,20,Cancer,Private,6,1
+45953,79,Injury,Public,3,0
+25946,80,Injury,Clinic,0,0
+706,42,Heart Disease,Private,1,0
+22018,73,Heart Disease,Private,4,0
+22861,50,Diabetes,Private,4,0
+23919,55,Diabetes,Public,7,1
+49202,23,Cancer,Public,5,1
+42023,75,Cancer,Public,7,0
+45651,61,Flu,Public,1,0
+22903,62,Diabetes,Clinic,2,0
+18641,49,Injury,Clinic,5,0
+15320,62,Diabetes,Public,9,0
+40842,78,Injury,Clinic,2,0
+6874,64,Heart Disease,Private,5,0
+2178,38,Diabetes,Private,5,1
+34327,53,Heart Disease,Private,1,0
+16698,36,Cancer,Public,6,0
+10414,37,Cancer,Private,1,0
+28390,74,Flu,Clinic,5,0
+22799,35,Diabetes,Public,0,0
+44085,64,Heart Disease,Clinic,2,0
+44189,66,Injury,Private,1,0
+43057,31,Cancer,Private,6,1
+49580,32,Cancer,Private,3,0
+44520,48,Injury,Public,7,0
+3193,18,Heart Disease,Clinic,5,0
+29967,71,Heart Disease,Public,9,0
+30223,20,Diabetes,Public,3,0
+47199,33,Diabetes,Private,4,1
+4127,74,Flu,Public,8,0
+26439,29,Cancer,Public,6,0
+49425,33,Diabetes,Private,9,0
+43441,89,Heart Disease,Public,8,0
+22334,41,Injury,Private,6,0
+18547,45,Heart Disease,Private,0,0
+26605,25,Cancer,Private,7,1
+10730,53,Heart Disease,Private,3,0
+16207,25,Flu,Public,2,0
+22476,75,Cancer,Private,6,0
+44762,77,Injury,Private,2,1
+24276,67,Flu,Public,7,0
+30580,45,Cancer,Public,5,0
+1806,58,Injury,Clinic,4,0
+7276,81,Flu,Public,3,0
+27751,44,Flu,Public,7,0
+9974,80,Cancer,Clinic,7,0
+40794,34,Diabetes,Public,0,0
+22459,50,Flu,Public,8,0
+6030,46,Flu,Public,4,1
+29820,30,Injury,Public,3,0
+4248,63,Heart Disease,Clinic,5,0
+32468,52,Cancer,Public,5,0
+33062,23,Cancer,Public,1,0
+14045,86,Diabetes,Clinic,7,0
+1163,64,Diabetes,Private,6,0
+35266,42,Cancer,Clinic,0,0
+8494,83,Diabetes,Private,4,0
+28521,27,Injury,Clinic,5,0
+30803,73,Cancer,Clinic,3,0
+3804,47,Diabetes,Public,1,0
+47076,22,Cancer,Private,3,0
+39853,50,Heart Disease,Public,0,0
+18175,82,Flu,Private,6,0
+44917,35,Cancer,Clinic,1,0
+24438,66,Flu,Clinic,1,0
+24164,28,Diabetes,Private,8,0
+2136,43,Flu,Public,4,0
+20580,80,Cancer,Public,1,0
+28228,76,Heart Disease,Public,8,0
+27236,44,Diabetes,Public,8,0
+29173,66,Cancer,Clinic,0,0
+38005,50,Diabetes,Clinic,2,0
+47823,18,Injury,Clinic,3,1
+47145,38,Flu,Clinic,6,0
+1354,72,Injury,Clinic,9,0
+25048,23,Cancer,Public,3,0
+39123,86,Heart Disease,Public,1,0
+7892,22,Diabetes,Public,6,0
+47217,20,Flu,Public,5,0
+22056,70,Diabetes,Clinic,2,1
+39059,40,Cancer,Clinic,5,0
+26809,70,Diabetes,Clinic,5,0
+22419,54,Flu,Private,4,0
+5431,34,Cancer,Public,3,0
+33470,18,Diabetes,Public,9,0
+44715,68,Heart Disease,Clinic,0,0
+13188,62,Cancer,Public,9,1
+25842,21,Cancer,Public,5,0
+37657,79,Heart Disease,Clinic,1,0
+2827,82,Injury,Private,2,1
+41272,49,Flu,Private,7,1
+41045,51,Injury,Private,9,0
+697,89,Diabetes,Clinic,5,0
+24009,56,Heart Disease,Public,2,0
+35198,43,Injury,Clinic,6,1
+45042,51,Cancer,Clinic,3,0
+15587,71,Diabetes,Public,8,0
+23171,20,Diabetes,Private,4,0
+25684,67,Injury,Private,2,0
+28348,29,Injury,Clinic,1,1
+42607,82,Heart Disease,Private,1,1
+21166,71,Flu,Clinic,2,0
+44857,22,Injury,Clinic,1,0
+16208,74,Injury,Public,3,0
+26870,34,Cancer,Public,1,0
+3311,64,Diabetes,Public,9,0
+47511,40,Flu,Clinic,8,1
+7046,31,Cancer,Public,1,0
+35254,83,Heart Disease,Private,8,0
+30706,68,Heart Disease,Private,5,1
+41606,55,Injury,Clinic,0,0
+11911,81,Injury,Clinic,3,0
+3411,55,Heart Disease,Public,0,1
+2234,67,Injury,Clinic,5,0
+18727,47,Flu,Clinic,3,0
+9180,68,Injury,Private,2,1
+19860,80,Diabetes,Private,2,1
+18843,69,Injury,Public,8,0
+6259,55,Cancer,Clinic,5,0
+23578,47,Flu,Clinic,8,0
+35653,68,Cancer,Private,4,1
+11611,22,Cancer,Clinic,1,1
+38004,46,Diabetes,Private,7,0
+2302,21,Flu,Public,4,0
+8655,27,Flu,Private,1,0
+8620,73,Flu,Clinic,3,0
+39884,34,Flu,Public,8,0
+47525,34,Flu,Private,3,0
+47754,86,Diabetes,Private,3,1
+22418,51,Injury,Public,1,0
+20945,23,Cancer,Public,5,0
+30806,70,Flu,Private,1,0
+17146,83,Injury,Clinic,6,0
+47343,60,Injury,Private,2,0
+31565,40,Cancer,Public,2,0
+25699,72,Diabetes,Private,4,1
+42476,33,Heart Disease,Public,2,1
+16871,25,Heart Disease,Public,1,0
+12335,21,Injury,Clinic,9,0
+46436,21,Cancer,Public,8,0
+2549,73,Heart Disease,Public,1,0
+32116,42,Injury,Clinic,1,0
+38691,84,Diabetes,Public,7,0
+47857,84,Heart Disease,Clinic,8,0
+21432,44,Injury,Clinic,6,0
+30355,49,Injury,Public,2,0
+7658,67,Flu,Public,8,1
+43516,78,Diabetes,Private,2,0
+7900,68,Flu,Clinic,4,0
+43142,36,Cancer,Private,8,0
+15651,38,Flu,Public,2,1
+1654,22,Flu,Private,6,0
+4999,59,Heart Disease,Clinic,0,0
+6795,78,Injury,Private,3,0
+12683,39,Diabetes,Clinic,3,0
+29799,38,Flu,Public,6,0
+13374,87,Diabetes,Public,7,0
+33211,18,Flu,Clinic,0,1
+6039,22,Cancer,Public,4,0
+42905,29,Flu,Public,6,1
+48854,63,Heart Disease,Public,3,0
+3057,51,Injury,Public,3,1
+38860,66,Cancer,Clinic,3,0
+16982,62,Flu,Private,5,1
+2700,44,Diabetes,Private,6,0
+47440,43,Cancer,Public,1,0
+3461,64,Cancer,Private,4,0
+47475,73,Flu,Private,3,0
+21857,80,Cancer,Public,2,0
+12469,65,Diabetes,Public,6,0
+3369,78,Cancer,Private,5,0
+47260,43,Diabetes,Clinic,6,0
+29143,53,Flu,Public,4,1
+25236,18,Injury,Clinic,5,0
+38967,25,Cancer,Private,4,0
+23828,69,Injury,Public,6,0
+26376,64,Diabetes,Clinic,1,0
+21795,73,Cancer,Public,4,1
+4487,31,Heart Disease,Private,5,0
+22899,45,Injury,Clinic,5,0
+46714,19,Cancer,Private,4,1
+34486,43,Injury,Private,9,1
+21380,31,Cancer,Public,6,0
+5235,76,Flu,Clinic,9,1
+44564,73,Injury,Private,7,1
+5055,24,Heart Disease,Private,6,0
+42414,20,Heart Disease,Clinic,4,0
+41318,40,Diabetes,Private,0,0
+46025,35,Cancer,Private,4,0
+20330,55,Injury,Clinic,9,0
+17929,32,Diabetes,Clinic,1,0
+7393,81,Injury,Clinic,4,0
+14873,45,Cancer,Clinic,4,0
+47833,56,Heart Disease,Public,1,0
+3936,74,Flu,Clinic,4,0
+9254,34,Heart Disease,Public,3,0
+11177,61,Diabetes,Public,0,0
+6395,42,Flu,Public,2,0
+20238,34,Diabetes,Private,0,1
+31246,30,Cancer,Public,4,0
+49877,42,Flu,Public,3,0
+48904,85,Diabetes,Private,6,0
+32852,27,Cancer,Private,4,0
+40290,84,Heart Disease,Private,9,0
+42419,35,Cancer,Clinic,3,1
+6100,51,Injury,Private,1,1
+29624,25,Cancer,Private,3,0
+28143,57,Cancer,Public,1,0
+41264,59,Injury,Private,7,1
+9507,58,Diabetes,Clinic,2,0
+46214,23,Diabetes,Private,8,0
+37910,69,Cancer,Clinic,3,1
+44580,43,Injury,Private,5,0
+40947,81,Injury,Private,9,0
+8708,76,Heart Disease,Private,4,0
+19089,73,Diabetes,Private,9,0
+43984,76,Flu,Clinic,0,0
+17953,87,Diabetes,Clinic,8,0
+36712,50,Diabetes,Public,0,0
+44025,70,Heart Disease,Clinic,7,0
+47702,39,Flu,Private,8,0
+33135,38,Heart Disease,Public,8,0
+34328,87,Flu,Public,0,0
+19211,87,Cancer,Public,1,0
+3920,21,Flu,Private,0,1
+31716,79,Heart Disease,Clinic,9,0
+801,79,Diabetes,Private,1,1
+45736,41,Flu,Public,9,0
+1199,72,Flu,Private,7,0
+690,26,Injury,Private,4,0
+10992,20,Diabetes,Clinic,6,1
+36243,48,Cancer,Clinic,1,0
+6602,57,Heart Disease,Public,7,0
+20278,53,Cancer,Private,5,0
+27141,41,Diabetes,Private,7,0
+35084,23,Flu,Clinic,0,0
+33245,83,Flu,Private,0,1
+23593,21,Diabetes,Private,6,0
+1069,23,Flu,Private,7,0
+38710,68,Flu,Clinic,2,0
+35163,79,Flu,Public,4,0
+37131,74,Heart Disease,Public,0,0
+46181,83,Heart Disease,Private,6,0
+7955,25,Injury,Public,4,0
+4514,43,Cancer,Clinic,7,1
+11593,68,Diabetes,Clinic,7,0
+18570,62,Diabetes,Public,8,0
+36277,61,Diabetes,Public,6,0
+17038,22,Injury,Private,0,1
+11229,87,Heart Disease,Public,2,0
+34677,43,Injury,Private,7,0
+45517,85,Diabetes,Private,2,1
+1284,36,Cancer,Clinic,7,0
+28251,37,Flu,Clinic,0,0
+41364,29,Heart Disease,Clinic,4,0
+40828,64,Heart Disease,Clinic,3,1
+13033,18,Injury,Public,4,0
+40611,31,Heart Disease,Clinic,7,0
+40474,81,Diabetes,Public,9,0
+6301,55,Diabetes,Clinic,3,0
+19690,54,Injury,Public,3,0
+39254,28,Diabetes,Private,2,0
+30092,20,Cancer,Public,6,0
+11147,50,Injury,Public,2,0
+9216,23,Cancer,Clinic,2,0
+23855,67,Flu,Public,9,0
+22509,27,Cancer,Private,4,1
+24876,22,Flu,Private,4,0
+45591,40,Flu,Clinic,5,1
+5280,27,Cancer,Private,7,1
+2868,61,Injury,Public,9,0
+12539,19,Diabetes,Private,5,0
+7155,30,Diabetes,Clinic,0,0
+41441,57,Flu,Public,7,0
+4995,19,Flu,Clinic,7,0
+11393,82,Injury,Public,8,0
+26047,80,Heart Disease,Private,8,0
+22886,34,Cancer,Clinic,1,1
+13903,26,Flu,Clinic,1,0
+32597,32,Diabetes,Public,2,1
+13621,41,Injury,Clinic,0,0
+11466,55,Cancer,Public,3,1
+34121,52,Injury,Public,3,0
+28812,66,Cancer,Public,8,0
+23177,86,Cancer,Public,8,0
+31789,79,Flu,Private,8,0
+31524,77,Injury,Public,9,0
+43175,67,Injury,Clinic,6,1
+5277,26,Diabetes,Private,1,0
+30249,51,Diabetes,Clinic,9,0
+15838,52,Flu,Private,4,0
+2991,18,Flu,Public,3,1
+27736,57,Heart Disease,Private,7,0
+48596,81,Diabetes,Private,1,0
+15099,39,Cancer,Clinic,5,0
+20008,77,Injury,Clinic,4,0
+3551,81,Flu,Public,1,0
+49247,89,Injury,Private,9,1
+49656,28,Injury,Private,0,0
+22106,31,Heart Disease,Private,7,1
+22199,77,Diabetes,Public,1,0
+1376,47,Flu,Public,6,0
+32593,52,Injury,Public,8,1
+4642,54,Flu,Public,8,0
+15702,22,Cancer,Public,7,1
+40234,43,Heart Disease,Clinic,9,0
+7579,79,Cancer,Private,8,0
+8487,21,Flu,Private,1,1
+40067,59,Flu,Private,5,0
+29440,35,Diabetes,Private,3,0
+37733,57,Injury,Private,3,0
+17519,89,Injury,Private,4,0
+46685,56,Cancer,Private,2,1
+18577,31,Heart Disease,Private,0,0
+26758,49,Injury,Clinic,7,0
+21636,68,Diabetes,Private,4,0
+8811,55,Cancer,Clinic,2,0
+17714,40,Cancer,Public,9,0
+14598,80,Diabetes,Private,6,0
+28751,32,Heart Disease,Public,6,1
+38445,42,Diabetes,Public,0,0
+47530,34,Heart Disease,Public,8,0
+26445,83,Diabetes,Clinic,1,0
+25816,70,Diabetes,Public,4,0
+32717,68,Flu,Public,4,0
+8808,56,Cancer,Public,7,0
+6449,68,Diabetes,Private,7,0
+1650,87,Diabetes,Private,6,0
+24444,23,Injury,Clinic,6,0
+35199,84,Cancer,Clinic,5,1
+9704,24,Injury,Private,5,1
+1581,68,Cancer,Clinic,8,1
+29805,89,Injury,Private,5,0
+17396,59,Diabetes,Public,1,0
+46675,81,Diabetes,Public,1,0
+8305,32,Flu,Clinic,4,0
+5737,46,Injury,Private,3,0
+20556,50,Heart Disease,Private,1,1
+46043,44,Flu,Clinic,2,1
+49512,53,Injury,Private,6,0
+46452,46,Injury,Public,7,0
+3843,55,Flu,Clinic,5,1
+14000,74,Diabetes,Clinic,4,0
+29875,44,Injury,Private,0,0
+10162,72,Diabetes,Clinic,7,1
+17464,50,Flu,Private,2,0
+48393,85,Diabetes,Private,5,0
+8630,83,Cancer,Private,2,0
+20031,27,Heart Disease,Private,6,1
+2179,22,Injury,Private,6,0
+4006,55,Heart Disease,Clinic,8,0
+13784,30,Diabetes,Public,4,0
+7753,48,Injury,Public,7,0
+19628,64,Diabetes,Clinic,9,0
+28432,69,Cancer,Clinic,9,0
+9935,73,Flu,Public,7,0
+44578,32,Injury,Public,0,1
+13796,46,Cancer,Public,4,0
+30945,25,Cancer,Public,2,0
+13745,22,Injury,Public,0,0
+29624,46,Diabetes,Private,3,0
+30399,64,Cancer,Clinic,7,0
+44419,85,Heart Disease,Private,2,0
+43725,62,Cancer,Public,9,0
